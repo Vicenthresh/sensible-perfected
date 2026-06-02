@@ -1,0 +1,16 @@
+# Mod jars (tracked via references, not binary files)
+*.jar
+*.jar.disabled
+
+# Exports (large binary archives — attach to GitHub releases instead)
+exports/*.mrpack
+
+# Runtime / personal
+saves/
+logs/
+crash-reports/
+screenshots/
+*.mv.db
+*.trace.db
+usercache.json
+options.txt
