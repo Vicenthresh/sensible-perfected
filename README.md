@@ -41,7 +41,7 @@ Inspired by:
 - [Vanilla Perfected](https://modrinth.com/modpack/vanilla-perfected)
 - [Sensible MC](https://modrinth.com/modpack/sensible-mc)
 
-All mod credits go to their respective authors. This pack is a curated collection — no mods were modified.
+All mod, resource packs and shaders credits go to their respective authors. This pack is a curated collection — no mods were modified.
 
 ---
 
