@@ -4,7 +4,7 @@
 
 ![test](https://github.com/Vicenthresh/sensible-mc-v2/raw/master/screenshots/2026-06-08_23.48.54.png)
 
-I made this modpack because i couldn't find a one that had all the features I wanted without feeling cluttered. So this is a combination of carefully curated and tested mods with the purpose of expanding the gameplay of Vanilla Minecraft without comprimising different play styles. 
+I made this modpack because I couldn't find one that had all the features I wanted without feeling cluttered. So this is a combination of carefully curated and tested mods with the purpose of expanding the gameplay of Vanilla Minecraft without comprimising different play styles. 
 
 This modpack is heavily inspired from the [Vanilla Perfected](https://modrinth.com/modpack/vanilla-perfected) and [Sensible MC](https://modrinth.com/modpack/sensible-mc) modpacks
 
