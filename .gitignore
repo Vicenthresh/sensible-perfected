@@ -9,7 +9,6 @@ exports/*.mrpack
 saves/
 logs/
 crash-reports/
-screenshots/
 *.mv.db
 *.trace.db
 usercache.json
