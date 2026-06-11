@@ -37,6 +37,11 @@ Built on top of:
 
 All mod credits go to their respective authors. This pack is a curated collection — no mods were modified.
 
+Full lists of included mods, resource packs, and shaders:
+- [Mod List](https://github.com/Vicenthresh/sensible-perfected/blob/master/modlist.json)
+- [Resource Pack List](https://github.com/Vicenthresh/sensible-perfected/blob/master/resourcepacklist.json)
+- [Shader List](https://github.com/Vicenthresh/sensible-perfected/blob/master/shaderlist.json)
+
 ---
 
 *Made by Vicenthresh*
