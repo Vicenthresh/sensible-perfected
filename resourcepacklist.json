@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Fresh Animations",
+        "version": "1.10.4",
+        "author": "FreshLX"
+    },
+    {
+        "name": "FA+ All Extensions",
+        "version": "1.8.1",
+        "author": "FreshLX"
+    },
+    {
+        "name": "FA+ Details",
+        "version": "2.3",
+        "author": "FreshLX"
+    },
+    {
+        "name": "FA+ Emissive",
+        "version": "1.6",
+        "author": "FreshLX"
+    },
+    {
+        "name": "FA+ Player",
+        "version": "1.0",
+        "author": "FreshLX"
+    },
+    {
+        "name": "FreshCompats",
+        "version": "1.6",
+        "author": "Ithan"
+    },
+    {
+        "name": "Fresh Weapons & Tools",
+        "version": "2.1.4",
+        "author": "BlueHDGaming"
+    },
+    {
+        "name": "Fresh Weapons & Tools Compat",
+        "version": "2.2.0",
+        "author": "BlueHDGaming"
+    },
+    {
+        "name": "HyperPunchy",
+        "version": "2.4",
+        "author": "Hamz"
+    },
+    {
+        "name": "Drodi's Villagers FA",
+        "version": "2.8.2",
+        "author": "Drodi"
+    },
+    {
+        "name": "Drodi's Illagers x FA",
+        "version": "5.2",
+        "author": "Drodi"
+    },
+    {
+        "name": "Drodi's Blazes FA",
+        "version": "1.2",
+        "author": "Drodi"
+    },
+    {
+        "name": "AL's Piglins Revamped + FA",
+        "version": "1.2",
+        "author": "AL"
+    },
+    {
+        "name": "AL's Skeletons Revamped + FA",
+        "version": "1.5.3",
+        "author": "AL"
+    },
+    {
+        "name": "AL's Skeletons Revamped Classic Faces",
+        "version": "1.0.2",
+        "author": "AL"
+    },
+    {
+        "name": "AL's Zombies Revamped + FA",
+        "version": "1.4.1",
+        "author": "AL"
+    },
+    {
+        "name": "Mobs Refreshed FA",
+        "version": "2.2",
+        "author": "discord.gg/eyNrN2bQG8"
+    },
+    {
+        "name": "Mobs Refreshed FA (EDIT)",
+        "version": "",
+        "author": "discord.gg/eyNrN2bQG8"
+    },
+    {
+        "name": "PA-FA-Compat",
+        "version": "1",
+        "author": ""
+    },
+    {
+        "name": "Furnaces Reimagined",
+        "version": "1.3",
+        "author": "Reijvi"
+    },
+    {
+        "name": "Armor Reimagined",
+        "version": "1.1",
+        "author": "Reijvi"
+    },
+    {
+        "name": "HUD Reimagined",
+        "version": "1",
+        "author": "Reijvi"
+    },
+    {
+        "name": "Torches Reimagined",
+        "version": "1.8",
+        "author": "Reijvi"
+    },
+    {
+        "name": "Armor Reimagined Copper-Bronze Compat",
+        "version": "1.0",
+        "author": "Reijvi"
+    },
+    {
+        "name": "Reimagined GUI Dark",
+        "version": "",
+        "author": "amongstreality"
+    },
+    {
+        "name": "Recolourful Containers",
+        "version": "3.1.1",
+        "author": "Vi_Tul"
+    },
+    {
+        "name": "Recolourful Containers DARK",
+        "version": "3.1.1",
+        "author": "Vi_Tul"
+    },
+    {
+        "name": "Fabulous Fences",
+        "version": "3.2.0",
+        "author": "SageAxolotl"
+    },
+    {
+        "name": "Fabulous Fences 2026",
+        "version": "2026.1a",
+        "author": "SageAxolotl"
+    },
+    {
+        "name": "Icons",
+        "version": "1.13.3",
+        "author": "WeNAN Studios"
+    },
+    {
+        "name": "Simple Grass Flowers",
+        "version": "1.9.6",
+        "author": "2DWisp"
+    },
+    {
+        "name": "Slightly Improved Font",
+        "version": "1.1.5",
+        "author": "latvian.dev"
+    },
+    {
+        "name": "GUI Revision",
+        "version": "2.2.0",
+        "author": "Vixel"
+    },
+    {
+        "name": "Door Tweaks",
+        "version": "3.5",
+        "author": "StormDragon77"
+    },
+    {
+        "name": "qrafty's Capitalized Font",
+        "version": "3.4",
+        "author": "qrafty.net"
+    },
+    {
+        "name": "Mandalas GUI + Dakmode",
+        "version": "2.1",
+        "author": "CesarZorak"
+    },
+    {
+        "name": "Visual Armor Trims",
+        "version": "2.1",
+        "author": "Thanos"
+    },
+    {
+        "name": "Mossy's Better Dirt",
+        "version": "1.0",
+        "author": "pixelmossy"
+    },
+    {
+        "name": "Woods Perfected",
+        "version": "5",
+        "author": "Ragon"
+    },
+    {
+        "name": "Re-covered",
+        "version": "",
+        "author": ""
+    },
+    {
+        "name": "Lower Grass",
+        "version": "1.20",
+        "author": "IeFHC233 (Modrinth)"
+    },
+    {
+        "name": "Emissive Ores",
+        "version": "1.21",
+        "author": ""
+    },
+    {
+        "name": "EGG Textures",
+        "version": "1.21.5",
+        "author": ""
+    },
+    {
+        "name": "Mod Descriptions",
+        "version": "11.1",
+        "author": ""
+    }
+]
