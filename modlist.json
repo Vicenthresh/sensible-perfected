@@ -53,6 +53,14 @@
         "authors": [
             "Fuzs"
         ],
+        "name": "Armor Quick Swap",
+        "url": "https://modrinth.com/mod/YxCEfYbF",
+        "version": "21.1.2"
+    },
+    {
+        "authors": [
+            "Fuzs"
+        ],
         "name": "Armored Foes",
         "url": "https://modrinth.com/mod/ahTPKYtE",
         "version": "21.1.0"
@@ -342,6 +350,14 @@
     },
     {
         "authors": [
+            "Neecko5b84"
+        ],
+        "name": "Dark Loading Screen",
+        "url": "https://modrinth.com/mod/h3XWIuzM",
+        "version": "1.6.14"
+    },
+    {
+        "authors": [
             "RedLime"
         ],
         "name": "Detail Armor Bar",
@@ -389,6 +405,14 @@
         "name": "EMI",
         "url": "https://modrinth.com/mod/fRiHVvU7",
         "version": "1.1.24+1.21.1+fabric"
+    },
+    {
+        "authors": [
+            "ishland"
+        ],
+        "name": "Early Loading Screen",
+        "url": "https://modrinth.com/mod/JVIyMkGt",
+        "version": "0.1.5"
     },
     {
         "authors": [
@@ -667,6 +691,14 @@
     },
     {
         "authors": [
+            "Fuzs"
+        ],
+        "name": "Health Bars",
+        "url": "https://modrinth.com/mod/A3VSiTms",
+        "version": "21.1.0"
+    },
+    {
+        "authors": [
             "Grend"
         ],
         "name": "Highlighter",
@@ -680,6 +712,14 @@
         "name": "HorseBuff",
         "url": "https://modrinth.com/mod/IrrG0G8l",
         "version": "2.1.8"
+    },
+    {
+        "authors": [
+            "iChun"
+        ],
+        "name": "Hotbar Swapper",
+        "url": "https://modrinth.com/mod/ArF8Kr0T",
+        "version": "1.0.3"
     },
     {
         "authors": [
@@ -812,6 +852,14 @@
         "name": "JamLib",
         "url": "https://modrinth.com/mod/IYY9Siz8",
         "version": "1.0.11+1.21"
+    },
+    {
+        "authors": [
+            "LambdAurora"
+        ],
+        "name": "LambDynamicLights",
+        "url": "https://modrinth.com/mod/yBW8D80W",
+        "version": "4.8.8+1.21.1"
     },
     {
         "authors": [
@@ -1130,6 +1178,14 @@
     },
     {
         "authors": [
+            "sit <me@sit.sh>"
+        ],
+        "name": "Player Locator Plus",
+        "url": "https://modrinth.com/mod/e0Yt2i7Q",
+        "version": "2.2.0"
+    },
+    {
+        "authors": [
             "Illusive Soulworks"
         ],
         "name": "Polymorph",
@@ -1276,7 +1332,7 @@
         ],
         "name": "SkinShuffle",
         "url": "https://modrinth.com/mod/3s19I5jr",
-        "version": "2.2.2+1.21"
+        "version": "2.9.1+1.21"
     },
     {
         "authors": [
@@ -1758,6 +1814,14 @@
         "name": "deepslate dubble",
         "url": "https://modrinth.com/mod/U0okx0Jo",
         "version": "2.0"
+    },
+    {
+        "authors": [
+            "iChun"
+        ],
+        "name": "iChunUtil",
+        "url": "https://modrinth.com/mod/W6ROj0Hl",
+        "version": "1.0.3"
     },
     {
         "authors": [

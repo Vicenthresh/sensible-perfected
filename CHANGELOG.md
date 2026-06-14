@@ -1,11 +1,53 @@
 # Changelog
 
-## [Unreleased] — In Development
+## [1.0.5]
 
-Forked from Sensible MC official v4.0.1 (277 mods).
+Updated fabric api to fix RegSync crash on server diconnnect
 
-### Changes from base pack
-- (track your additions/removals here as you work)
+
+## [1.0.4] — 2026-06-11
+
+### Added (Mods)
+- Armor Quick Swap 21.1.2 — by Fuzs
+- Dark Loading Screen 1.6.14 — by Neecko5b84
+- Early Loading Screen 0.1.5 — by ishland
+- Health Bars 21.1.0 — by Fuzs
+- Hotbar Swapper 1.0.3 — by iChun
+- LambDynamicLights 4.8.8+1.21.1 — by LambdAurora
+- Player Locator Plus 2.2.0 — by sit
+- iChunUtil 1.0.3 — by iChun
+
+### Added (Resource Packs)
+- Artisanal Nether Bricks 1.2.0
+- Colourful Containers
+- EvenBetterEnchants
+- Fancy Crops 1.3
+- GEO 1.100.3
+- Modded Containers
+- PDB3D's Blocky Armor Stands AV
+
+### Updated (Mods)
+- SkinShuffle 2.2.2+1.21 → 2.9.1+1.21 (fixed crash when opening skin carousel)
+
+### Updated (Resource Packs)
+- HyperPunchy 2.4 → 2.5+
+- FA+ Details 2.3 → 2.2.1
+
+### Removed (Resource Packs)
+- AL's Skeletons Revamped Classic Faces
+- Emissive Ores
+- Fabulous Fences
+- Fabulous Fences 2026
+- GUI Revision
+- Mandalas GUI + Dakmode
+- Mod Descriptions
+- Mobs Refreshed FA
+- Mobs Refreshed FA (EDIT)
+- Re-covered
+- Recolourful Containers
+- Recolourful Containers DARK
+- Reimagined GUI Dark
+- qrafty's Capitalized Font
 
 ## [1.0.3] — 2026-06-10
 

@@ -11,7 +11,7 @@
     },
     {
         "name": "FA+ Details",
-        "version": "2.3",
+        "version": "2.2.1",
         "author": "FreshLX"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
         "name": "HyperPunchy",
-        "version": "2.4",
+        "version": "2.5+",
         "author": "Hamz"
     },
     {
         "name": "Drodi's Villagers FA",
-        "version": "2.8.2",
+        "version": "2.8",
         "author": "Drodi"
     },
     {
@@ -70,24 +70,9 @@
         "author": "AL"
     },
     {
-        "name": "AL's Skeletons Revamped Classic Faces",
-        "version": "1.0.2",
-        "author": "AL"
-    },
-    {
         "name": "AL's Zombies Revamped + FA",
         "version": "1.4.1",
         "author": "AL"
-    },
-    {
-        "name": "Mobs Refreshed FA",
-        "version": "2.2",
-        "author": "discord.gg/eyNrN2bQG8"
-    },
-    {
-        "name": "Mobs Refreshed FA (EDIT)",
-        "version": "",
-        "author": "discord.gg/eyNrN2bQG8"
     },
     {
         "name": "PA-FA-Compat",
@@ -120,29 +105,14 @@
         "author": "Reijvi"
     },
     {
-        "name": "Reimagined GUI Dark",
+        "name": "Colourful Containers",
         "version": "",
-        "author": "amongstreality"
+        "author": ""
     },
     {
-        "name": "Recolourful Containers",
-        "version": "3.1.1",
-        "author": "Vi_Tul"
-    },
-    {
-        "name": "Recolourful Containers DARK",
-        "version": "3.1.1",
-        "author": "Vi_Tul"
-    },
-    {
-        "name": "Fabulous Fences",
-        "version": "3.2.0",
-        "author": "SageAxolotl"
-    },
-    {
-        "name": "Fabulous Fences 2026",
-        "version": "2026.1a",
-        "author": "SageAxolotl"
+        "name": "Modded Containers",
+        "version": "",
+        "author": ""
     },
     {
         "name": "Icons",
@@ -160,24 +130,9 @@
         "author": "latvian.dev"
     },
     {
-        "name": "GUI Revision",
-        "version": "2.2.0",
-        "author": "Vixel"
-    },
-    {
         "name": "Door Tweaks",
         "version": "3.5",
         "author": "StormDragon77"
-    },
-    {
-        "name": "qrafty's Capitalized Font",
-        "version": "3.4",
-        "author": "qrafty.net"
-    },
-    {
-        "name": "Mandalas GUI + Dakmode",
-        "version": "2.1",
-        "author": "CesarZorak"
     },
     {
         "name": "Visual Armor Trims",
@@ -195,19 +150,9 @@
         "author": "Ragon"
     },
     {
-        "name": "Re-covered",
-        "version": "",
-        "author": ""
-    },
-    {
         "name": "Lower Grass",
         "version": "1.20",
         "author": "IeFHC233 (Modrinth)"
-    },
-    {
-        "name": "Emissive Ores",
-        "version": "1.21",
-        "author": ""
     },
     {
         "name": "EGG Textures",
@@ -215,8 +160,28 @@
         "author": ""
     },
     {
-        "name": "Mod Descriptions",
-        "version": "11.1",
+        "name": "Artisanal Nether Bricks",
+        "version": "1.2.0",
+        "author": ""
+    },
+    {
+        "name": "EvenBetterEnchants",
+        "version": "",
+        "author": ""
+    },
+    {
+        "name": "Fancy Crops",
+        "version": "1.3",
+        "author": ""
+    },
+    {
+        "name": "GEO",
+        "version": "1.100.3",
+        "author": ""
+    },
+    {
+        "name": "PDB3D's Blocky Armor Stands AV",
+        "version": "",
         "author": ""
     }
 ]
