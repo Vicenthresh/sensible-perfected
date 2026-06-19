@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.2.0]
+
+### Added (Mods)
+- Better Nametags 1.0.0 — by Selyss
+- EMI Enchanting 0.1.2+1.21 — by fzzyhmstrs
+- EMI Loot 0.7.9+1.21+fabric — by fzzyhmstrs, lxly9 (art), unilock (ports)
+- Enhanced Attack Indicator 1.2.0+1.21 — by Minenash
+- Extra Mod Integrations 1.0.3+1.21.1 — by Kneelawk, abbie, KirboEatsFood
+- Nametag Recipe Backport 1.0.0 — by Zeyro-p
+- Particle Blocker 1.9 — by Declipsonator
+- Reconnectible Chains 2.2.1 — by Evan, legoatoom
+
+### Removed (Mods)
+- Better Combat 2.3.2+1.21.1 (attack delay issues)
+- Damage Numbers 1.4.1-fabric
+- Smarter Farmers 1.21-2.2.4
+
+### Updated (Mods)
+- Punchy 2.5.5b → 2.5.6
+
 ## [1.1.1]
 
 ### Added (Mods)
