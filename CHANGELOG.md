@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.2.1]
+
+### Removed (Mods)
+- Entity Player Compat 1.3.5 (manually added, not meant for distribution)
+- Freecam 1.3.0+mc1.21 (manually added, not meant for distribution)
+
+### Added (Resource Packs)
+- Colourful Containers - YYZ Backpacks Compat (was in pack since 1.1.1 but not in manifest)
+
+### Updated (Shaders)
+- Complementary Unbound 5.7.1 → 5.8.1
+- I Like Vanilla 1.3.3b → 1.4.1
+
+### Cleanup
+- Removed orphan config files from 26 previously-removed mods
+- Removed 12 stale .bak config backups
+- Removed 14 orphaned .rpo metadata files
+- Removed 4 orphaned shader metadata files
+- Removed old GEO v1.100.1 (replaced by v1.100.3)
+- Updated .packignore to exclude logs, backups, .fabric, fieldguide_cache, skinshuffle skin caches
+
 ## [1.2.0]
 
 ### Added (Mods)
