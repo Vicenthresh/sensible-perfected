@@ -117,7 +117,7 @@
 - [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.7\.9] by Apollo
 - [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) [1\.0\.19\+LTS\+1\.21\.1\+fabric] by IMB11 \(mineblock11\)
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) [0\.21\.10] by masa
-- [Map Atlases](https://modrinth.com/mod/C255PPUX) [1\.21\-6\.6\.3] by MehVahdJukaar, Pepperoni\_\_Jabroni\_\_
+- [Map Atlases](https://modrinth.com/mod/C255PPUX) [1\.21\-6\.5\.3] by MehVahdJukaar, Pepperoni\_\_Jabroni\_\_
 - [MasterCutter](https://modrinth.com/mod/DuUMFIfX) [1\.3\.1\+1\.21] by Nico4play
 - [Minecraft Cursor](https://modrinth.com/mod/o5fhgLeQ) [3\.11\.3\+1\.21\.1] by fishstiz
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [11\.0\.4] by Prospector, haykam821, TerraformersMC

@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.2]
+
+### Updated (Mods)
+- Map Atlases 1.21-6.6.3 → 1.21-6.5.3 (fixed disconnect crash — registry sync NPE)
+
 ## [1.2.1]
 
 ### Removed (Mods)
