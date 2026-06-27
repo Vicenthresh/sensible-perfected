@@ -3,7 +3,7 @@
 ## [1.2.2]
 
 ### Updated (Mods)
-- Map Atlases 1.21-6.6.3 → 1.21-6.5.3 (fixed disconnect crash — registry sync NPE)
+- Map Atlases 1.21-6.6.3 → 1.21-6.5.3 (fixed minimap HUD render crash)
 
 ## [1.2.1]
 
