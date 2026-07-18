@@ -1,5 +1,48 @@
 # Changelog
 
+## [1.3.0]
+
+### Added (Mods)
+- Advanced Backups 3.7.1 — by Mommy Heather
+- Controlling 19.0.5 — by Jaredlll08
+- Locator Bar 1.2.1 — by FuzjaJadrowa
+- Orlan's lead everything mod 1.0.0 — by Orlan
+- Searchables 1.0.2 — by Jaredlll08 (dependency of Controlling)
+
+### Updated (Mods)
+- Fabric API 0.116.12+1.21.1 → 0.116.14+1.21.1
+
+### Replaced (Mods)
+- Map Atlases → MapDistanceFix 1.1.1+mc1.21-1.21.11
+
+### Removed (Mods)
+- Better Nether Map 4.0.0-1.21.1
+- Better Wolf Companion Mod 1.2.0
+- Chef's Delight 1.0.5-fabric-1.21.1
+- Crops Love Rain 3.2.1
+- Dark Loading Screen 1.6.14
+- Early Loading Screen 0.1.5
+- Eating Animation 1.21+1.9.72
+- Economical Villager Trading 1.3.1
+- Fixed Villager Trades 1.2.2
+- Glowing Torchflower 1.3.0
+- Golem Overhaul 1.1.0
+- iChunUtil 1.0.3 (orphaned dependency)
+- LeadRecipeBackport 1-v1.0.0
+- Model Gap Fix 1.21-1.6
+- Particle Blocker 1.9
+- Player Locator Plus 2.2.0
+- Reconnectible Chains 2.2.1
+- Right Click Harvest 4.6.1+1.21.1
+- Server Day Counter 1.21+1.0.0-fabric
+- Shifting Wares 3.1.1+1.21.3
+- SkinShuffle 2.9.1+1.21
+- Sound Physics Remastered 1.21.1-1.5.1
+- Wooden Bucket 1.21-4.1.3.0
+- [Let's Do Addon] Apple Wood Rebarked 1.0.0
+- [Let's Do] WilderNature 1.1.4
+- deepslate dubble 2.0
+
 ## [1.2.1]
 
 ### Removed (Mods)
