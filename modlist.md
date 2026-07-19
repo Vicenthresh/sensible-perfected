@@ -1,7 +1,7 @@
-- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.11\.1] by tr7zw
-- [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) [1\.4\.4\+mc\-1\.20\.5\-1\.21\.1] by Clayborn, Flourick, KadTheHunter
+- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.11\.2] by tr7zw
+- [Accurate Block Placement](https://modrinth.com/mod/kzwxhsjp) [1\.4\.5\+mc\-1\.20\.5\-1\.21\.1] by Clayborn, Flourick, KadTheHunter
 - [Advanced Backups](https://modrinth.com/mod/Jrmoreqs) [3\.7\.1] by Mommy Heather
-- [Amendments](https://modrinth.com/mod/6iTJugQR) [1\.21\-2\.0\.15] by MehVahdJukaar, Plantkillable
+- [Amendments](https://modrinth.com/mod/6iTJugQR) [1\.21\-2\.1\.7] by MehVahdJukaar, Plantkillable
 - [Animatica](https://modrinth.com/mod/PRN43VSY) [0\.6\.1\+1\.21] by FoundationGames
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.6\+mc1\.21] by squeek502
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) [13\.0\.8] by shedaniel
@@ -9,7 +9,7 @@
 - [Armored Foes](https://modrinth.com/mod/ahTPKYtE) [21\.1\.0] by Fuzs
 - [AttributeFix](https://modrinth.com/mod/lOOpEntO) [21\.1\.3] by Darkhax
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) [2\.4\.1] by Thosea
-- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.0\.58] by BlayTheNinth
+- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.0\.63] by BlayTheNinth
 - [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) [0\.4\.3\.21] by way2muchnoise
 - [Better Beds](https://modrinth.com/mod/kKwy3HU9) [1\.4\.0] by Motschen, TeamMidnightDust
 - [Better Climbing](https://modrinth.com/mod/ZucWZEBV) [3] by artemis
@@ -29,14 +29,14 @@
 - [Clean Tooltips](https://modrinth.com/mod/vMoHe8uI) [1\.1] by stal111
 - [Cloth Config v15](https://modrinth.com/mod/9s6osm5g) [15\.0\.140] by shedaniel
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) [19\.0\.0\.1] by Jared
-- [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.25] by Rick South
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.39] by Rick South
 - [Combat Nouveau](https://modrinth.com/mod/Iv3kcKZn) [21\.1\.2] by Fuzs
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.3\.0\+alpha\.0\.364\+1\.21\.1] by RelativityMC, ishland
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) [0\.4\.0\-alpha\.0\.21\+1\.21\.1] by RelativityMC, ishland
 - [Continuity](https://modrinth.com/mod/1IjD5062) [3\.0\.0\+1\.21] by PepperCode1
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [19\.0\.5] by Jaredlll08
 - [Copper Age Backport](https://modrinth.com/mod/a1llHwl4) [0\.1\.4] by Smallinger
 - [Creeper Overhaul](https://modrinth.com/mod/MI1LWe93) [4\.0\.6] by Artist/Creator \- Joosh, Dev \- ThatGravyBoat
-- [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ) [1\.21\.1\-2\.3\.4] by Joosh, EterDelta
+- [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ) [2\.6\.0] by Joosh, EterDelta
 - [Customizable Elytra](https://modrinth.com/mod/L25fOeGq) [2\.2\.8\+1\.21] by Hidoni
 - [Death Finder](https://modrinth.com/mod/wNxIBREV) [21\.1\.1] by Fuzs
 - [Death Sorter](https://modrinth.com/mod/zXz2aiaa) [0\.0\.4] by Mathiew May
@@ -53,58 +53,57 @@
 - [Easy Shulker Boxes](https://modrinth.com/mod/gA5euN8S) [21\.1\.3] by Fuzs
 - [Effect Descriptions](https://modrinth.com/mod/Kw73iLDq) [21\.1\.1] by Fuzs
 - [Elytra Slot](https://modrinth.com/mod/mSQF1NpT) [9\.0\.1\+1\.21\.1] by Illusive Soulworks
-- [Enchantment Insights](https://modrinth.com/mod/xLSpHE43) [21\.1\.0] by Fuzs
+- [Enchantment Insights](https://modrinth.com/mod/xLSpHE43) [21\.1\.4] by Fuzs
 - [Enderscape](https://modrinth.com/mod/btCrWvHr) [2\.1\.0] by lunarbunten, hivye, Konci, Ninni, Orcinus
 - [Enhanced Attack Indicator](https://modrinth.com/mod/eTy17BBS) [1\.2\.0\+1\.21] by Minenash
 - [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) [0\.10\.2\+1\.21] by FoundationGames
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.2\.4] by Traben
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.1] by Traben
 - [Entity View Distance](https://modrinth.com/mod/ihnBJ6on) [1\.3\.0\+1\.21] by Patbox
-- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.10\.2] by tr7zw
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.10\.5] by tr7zw
 - [EquipLib](https://modrinth.com/mod/bnABingO) [1\.0\.0\+mc1\.21\.1] by CyberSteve777, ZyaBlik
 - [Eternal Nether](https://modrinth.com/mod/s6R4jmL8) [21\.1\.3] by Izofar, Fuzs
 - [Extra Mod Integrations](https://modrinth.com/mod/bpRHnWUb) [1\.0\.3\+1\.21\.1] by Kneelawk, abbie, KirboEatsFood
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) [0\.116\.14\+1\.21\.1] by FabricMC
-- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.12\+kotlin\.2\.4\.0] by FabricMC
-- [Fancy World Animations](https://modrinth.com/mod/IAzUFvS6) [1\.2\.24] by maDU59\_
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) [1\.13\.13\+kotlin\.2\.4\.10] by FabricMC
+- [Fancy World Animations](https://modrinth.com/mod/IAzUFvS6) [1\.2\.31] by maDU59\_
 - [Farmer's Delight](https://modrinth.com/mod/7vxePowz) [1\.21\.1\-3\.3\.3\+refabricated] by Vectorwing, ChrysanthCow, MehVahdJukaar, cassiancc
 - [Fast Item Frames](https://modrinth.com/mod/FsoeTIV0) [21\.1\.6] by Fuzs
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) [7\.0\.3] by malte0811
-- [Field Guide](https://modrinth.com/mod/72RRCWM6) [1\.11\.2] by Evan, Kobber
+- [Field Guide](https://modrinth.com/mod/72RRCWM6) [1\.13\.1] by Evan, Kobber
 - [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) [21\.1\.6] by Fuzs
 - [Fragmentum](https://modrinth.com/mod/49C5QgTK) [2\.2\.4] by Obscuria
 - [Friends&Foes](https://modrinth.com/mod/POQ2i9zu) [4\.0\.26] by Faboslav
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) [0\.7\.6\+1\.21] by fzzyhmstrs
-- [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4\.8\.4] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
-- [Hardcore Revival](https://modrinth.com/mod/HqKoXaXz) [21\.1\.15] by BlayTheNinth
+- [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4\.9\.2] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
+- [Hardcore Revival](https://modrinth.com/mod/HqKoXaXz) [21\.1\.17] by BlayTheNinth
 - [Health Bars](https://modrinth.com/mod/A3VSiTms) [21\.1\.0] by Fuzs
 - [Highlighter](https://modrinth.com/mod/cVNW5lr6) [1\.1\.11] by Grend
 - [HorseBuff](https://modrinth.com/mod/IrrG0G8l) [2\.1\.8] by CodeF53\#0241
-- Hotbar Cycle [1\.0\.0]
 - [Iceberg](https://modrinth.com/mod/5faXoLqX) [1\.3\.2] by Grend
 - [Illager Invasion](https://modrinth.com/mod/jSV9w0J5) [21\.1\.6] by Dricky, Safro, Zeckemith, Fuzs
-- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.6\.10\+1\.21\.1] by RK\_01
-- [Immersive Hotbar](https://modrinth.com/mod/hsPB5xMD) [1\.1\.1\-1\.21\-1\.21\.1] by DerpDerpling
+- [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) [1\.6\.11\+1\.21\.1] by RK\_01
+- [Immersive Hotbar](https://modrinth.com/mod/hsPB5xMD) [1\.1\.2\-1\.21\-1\.21\.1] by DerpDerpling
 - [Immersive Overlays](https://modrinth.com/mod/PKoLkD98) [1\.7\.2\+1\.21\.1] by cassiancc, noelledotjpg
 - [ImmersiveUI](https://modrinth.com/mod/9wv7LuMc) [0\.3\.3] by OctoStudios
 - [Infinite Music](https://modrinth.com/mod/OJLdOa8k) [0\.4\.6] by PlasticStrawActivist
 - [InvMove](https://modrinth.com/mod/REfW2AEX) [0\.9\.3] by PieKing1215
 - [Inventory Management](https://modrinth.com/mod/F7wXag4i) [1\.6\.0] by Roundaround
-- [Inventory Particles](https://modrinth.com/mod/XYnKrsxH) [2\.4\.0\+1\.21\.1\+fabric] by LopyMine kovrik337s
-- [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.8\+mc1\.21\.1] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Inventory Particles](https://modrinth.com/mod/XYnKrsxH) [2\.6\.0\+1\.21\.1\+fabric] by LopyMine kovrik337s
+- [Iris](https://modrinth.com/mod/YL57xq9U) [1\.8\.14\-beta\.1\+mc1\.21\.1] by coderbot, IMS212, Justsnoopy30, FoundationGames
 - [Item Borders](https://modrinth.com/mod/b1fMg6sH) [1\.2\.5] by Grend
 - [Item Descriptions](https://modrinth.com/mod/UaizcMKP) [2\.8\.0\+1\.21\.1] by cassiancc
 - [JRFTL](https://modrinth.com/mod/8nIicBYu) [1\.8\.0] by \[456Xander\]
 - [Jade](https://modrinth.com/mod/nvQzSEkH) [15\.10\.5\+fabric] by Snownee
 - [JamLib](https://modrinth.com/mod/IYY9Siz8) [1\.3\.6\+1\.21\.1] by Jamalam
-- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [4\.8\.8\+1\.21\.1] by LambdAurora
+- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) [4\.8\.10\+1\.21\.1] by LambdAurora
 - [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) [21\.1\.1] by Fuzs
 - [LibJF](https://modrinth.com/mod/WKwQAwke) [3\.17\.5] by JFronny
-- [Litematica](https://modrinth.com/mod/bEpr0Arc) [0\.19\.60] by masa
-- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.15\.3\+mc1\.21\.1] by JellySquid, 2No2Name
-- [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.7\.9] by Apollo
+- [Litematica](https://modrinth.com/mod/bEpr0Arc) [0\.19\.61] by masa
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ) [0\.15\.4\+mc1\.21\.1] by JellySquid, 2No2Name
+- [Lithostitched](https://modrinth.com/mod/XaDC71GB) [1\.7\.13] by Apollo
 - [Locator Bar](https://modrinth.com/mod/BD7N7OcY) [1\.2\.1] by FuzjaJadrowa
-- [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) [1\.0\.19\+LTS\+1\.21\.1\+fabric] by IMB11 \(mineblock11\)
+- [MRU](https://modrinth.com/mod/SNVQ2c0g) [1\.0\.31\+1\.21\.1] by cassiancc, IMB11
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I) [0\.21\.10] by masa
 - [MapDistanceFix](https://modrinth.com/mod/51BNNAng) [1\.1\.1\+mc1\.21\-1\.21\.11] by mrerenk
 - [MasterCutter](https://modrinth.com/mod/DuUMFIfX) [1\.3\.1\+1\.21] by Nico4play
@@ -112,27 +111,27 @@
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) [11\.0\.4] by Prospector, haykam821, TerraformersMC
 - [ModernFix](https://modrinth.com/mod/nmDcB62a) [5\.25\.1\+mc1\.21\.1] by embeddedt
 - [MonoLib](https://modrinth.com/mod/9leXt4A5) [4\.0\.2] by Lupin, Jason13
-- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\.1\-3\.0\.17] by MehVahdJukaar
-- [More Barrel Variants](https://modrinth.com/mod/g4AhyGgi) [2\.0\.3] by pnku
+- [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) [1\.21\.1\-3\.1\.1] by MehVahdJukaar
+- [More Barrel Variants](https://modrinth.com/mod/g4AhyGgi) [2\.0\.6] by pnku
 - [More Chest Variants](https://modrinth.com/mod/HKKqmr2p) [1\.5\.6] by LieOnLion
 - [More Compatibility Variants \[Let's Do\]](https://modrinth.com/mod/YpyD6oK2) [1\.0\.4] by pnku
-- [More Culling](https://modrinth.com/mod/51shyZVL) [1\.0\.7] by FX \- PR0CESS, 1Foxy2
-- [MossyLib](https://modrinth.com/mod/ffLDUGbm) [1\.4\.0\+1\.21\.1\+fabric] by LopyMine
+- [More Culling](https://modrinth.com/mod/51shyZVL) [1\.0\.8] by FX \- PR0CESS, 1Foxy2
+- [MossyLib](https://modrinth.com/mod/ffLDUGbm) [1\.5\.0\+1\.21\.1\+fabric] by LopyMine
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [2\.26] by Ivan Molodetskikh \(YaLTeR\)
-- [MusicNotification](https://modrinth.com/mod/A4YQgwzz) [3\.0\.0] by KosmoMoustache
-- [Mythic Upgrades](https://modrinth.com/mod/ERH7cFoy) [4\.2\.0\+mc1\.21] by TriQue
+- [MusicNotification](https://modrinth.com/mod/A4YQgwzz) [3\.2\.0] by KosmoMoustache
+- [Mythic Upgrades](https://modrinth.com/mod/ERH7cFoy) [5\.1\.0] by trique
 - [Nametag Recipe Backport](https://modrinth.com/mod/aZsz2Ke2) [1\.0\.0] by Zeyro\-p
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) [1\.21\.1\-v2\.9\.1] by Aizistral
 - [NoAISpawnEggs](https://modrinth.com/mod/VOUckZSf) [21\.1\.2] by Darkhax
 - [Noisium](https://modrinth.com/mod/KuNKN7d2) [2\.3\.0\+mc1\.21\-1\.21\.1] by Steveplays28
 - [Not interested\!](https://modrinth.com/mod/j7Ux0G0U) [1\.0\.0] by MoonFather
-- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1\.12\.3] by tr7zw
+- [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) [1\.12\.4] by tr7zw
 - [OctoLib](https://modrinth.com/mod/RH2KUdKJ) [0\.6\.2] by OctoStudios
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) [2\.3\.0\-beta\.9\+1\.21] by opekope2
 - [Orlan's lead everything mod](https://modrinth.com/mod/va2FW2cc) [1\.0\.0] by Orlan
 - [Packed Packs](https://modrinth.com/mod/8Pq6Exn2) [2\.2\.1\+1\.21\.1] by fishstiz
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) [0\.3\.3\+1\.21] by fzzyhmstrs
-- [Particle Rain](https://modrinth.com/mod/nrikgvxm) [3\.0\.5] by PigCart
+- [Particle Rain](https://modrinth.com/mod/nrikgvxm) [4\.0\.0\-beta\.10] by pigcart
 - [Pick Up Notifier](https://modrinth.com/mod/ZX66K16c) [21\.1\.1] by Fuzs
 - [Pillager Caravans](https://modrinth.com/mod/8jJHxtdz) [3\.0\.0] by Obscuria
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) [2\.4\.2\+1\.21] by Patbox
@@ -140,11 +139,11 @@
 - [Player Animator](https://modrinth.com/mod/gedNE4y2) [2\.0\.4\+1\.21\.1] by KosmX  
 - [Polymorph](https://modrinth.com/mod/tagwiZkJ) [1\.1\.0\+1\.21\.1] by Illusive Soulworks
 - [PrickleMC](https://modrinth.com/mod/aaRl8GiW) [21\.1\.11] by Darkhax
-- [Punchy](https://modrinth.com/mod/8aoMKplv) [2\.5\.6] by Punchy
-- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21\.1\.51] by Fuzs
+- [Punchy](https://modrinth.com/mod/8aoMKplv) [2\.6\.2] by Punchy
+- [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21\.1\.52] by Fuzs
 - [Quad](https://modrinth.com/mod/7jzrCiK0) [1\.2\.9] by LieOnLion
 - [Realistic Fire Spread](https://modrinth.com/mod/7JCIgcfe) [1\.21\-r1] by MoriyaShiine
-- [Remove Reloading Screen](https://modrinth.com/mod/ZP7xHXtw) [5\.0\.10\+mc1\.21\.1\-fabric] by dima\_dencep
+- [Remove Reloading Screen](https://modrinth.com/mod/ZP7xHXtw) [5\.0\.11\+mc1\.21\.1\-fabric] by dima\_dencep
 - [Resource Pack Options](https://modrinth.com/mod/TiF5QWZY) [4\.14\.0\+1\.21\.1\.4] by JFronny
 - [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) [3\.0\.12] by ThatGravyBoat, Epic\_Oreo
 - [Resourcefulconfig](https://modrinth.com/mod/M1953qlQ) [3\.0\.11] by ThatGravyBoat
@@ -155,22 +154,22 @@
 - [Simple Death Improvements](https://modrinth.com/mod/2JFsuD70) [1\.5\.0] by pajic
 - [Smooth Scroll](https://modrinth.com/mod/CllP7wW0) [2\.2\.1] by SlovakSmileSK
 - [Smooth Swapping](https://modrinth.com/mod/ydZic5r4) [0\.9\.3\.2] by Schauweg
-- [Sodium](https://modrinth.com/mod/AANobbMI) [0\.6\.13\+mc1\.21\.1] by JellySquid \(jellysquid3\)
+- [Sodium](https://modrinth.com/mod/AANobbMI) [0\.8\.12\+mc1\.21\.1] by JellySquid \(jellysquid3\)
 - [Sounds](https://modrinth.com/mod/ZouiUX7t) [2\.4\.22\+lts] by IMB11 \(mineblock11\)
 - [Sparkle](https://modrinth.com/mod/Lpsy1gMk) [3\.1\.0] by miyucomics
-- [Spawn Animations](https://modrinth.com/mod/zrzYrlm0) [1\.11\.4\+mod] by Tschipcraft
+- [Spawn Animations](https://modrinth.com/mod/zrzYrlm0) [1\.11\.5\+mod] by Tschipcraft
 - [Stack Refill](https://modrinth.com/mod/mQWkB9ON) [4\.9] by Rick South
 - [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) [1\.0\.6] by Neecko5b84
 - [Steve's Realistic Sleep](https://modrinth.com/mod/ZPywkPEo) [1\.11\.2\+mc1\.21\-1\.21\.1] by Steveplays28
 - [Suggestion Tweaker](https://modrinth.com/mod/MBLj38R0) [1\.20\.6\-1\.5\.3] by VelizarBG
-- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1\.21\.1\-3\.6\.7] by MehVahdJukaar, Plantkillable
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1\.21\.1\-3\.8\.2] by MehVahdJukaar, Plantkillable
 - [TCD Commons API](https://modrinth.com/mod/Eldc1g37) [3\.12\.7\+fabric\-1\.21] by TheCSDev
-- [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1\.4\.23] by Fourmisain
+- [Tax Free Levels](https://modrinth.com/mod/jCBrrLTs) [1\.4\.24] by Fourmisain
 - [TerraBlender](https://modrinth.com/mod/kkmrDlKT) [4\.1\.0\.8] by Adubbz
 - [Terralith](https://modrinth.com/mod/8oi3bsk5) [2\.6\.2] by Starmute, catter1, Apollo, TheKingWhale
 - [Text Formatting Everywhere](https://modrinth.com/mod/1ury0R3s) [2\.0\.4] by Potat369
 - [ThreadTweak](https://modrinth.com/mod/vSEH1ERy) [0\.1\.5\+mc1\.21\.1] by getchoo, UltimateBoomer, fantahund
-- [Tide](https://modrinth.com/mod/die1AF7i) [2\.0\.3] by Lightning64
+- [Tide](https://modrinth.com/mod/die1AF7i) [2\.1] by Lightning64
 - [Tide Extra Compatibility](https://modrinth.com/mod/goMfyYSL) [2\.2\.0] by SilentAutopsy
 - [Tiny Item Animations](https://modrinth.com/mod/wMkevcSR) [1\.2\.1] by Trivaxy
 - [TrashSlot](https://modrinth.com/mod/vRYk0bv7) [21\.1\.11] by BlayTheNinth
@@ -208,7 +207,7 @@
 - [\[Let's Do\] Meadow](https://modrinth.com/mod/ra7o6Sl7) [1\.4\.8] by satisfy, Jason13
 - [\[Let's Do\] Vinery](https://modrinth.com/mod/1DWmBJVA) [1\.5\.3] by Jason13Official, Satisfy
 - [emi\-letsdo\-compat](https://modrinth.com/mod/k6hi4lMv) [2\.0\.1]
-- [oωo](https://modrinth.com/mod/ccKDOlHs) [0\.12\.15\.4\+1\.21] by glisco
+- [oωo](https://modrinth.com/mod/ccKDOlHs) [0\.13\.0\-alpha\.15\+1\.21] by glisco
 - [root project 'Prism'](https://modrinth.com/mod/1OE8wbN0) [1\.0\.11] by Grend
 - [ukulib](https://modrinth.com/mod/Y8uFrUil) [1\.4\.1\+1\.21] by uku
 - [yyzsbackpack](https://modrinth.com/mod/zO7tsTJN) [21\.1\.13] by yyz729

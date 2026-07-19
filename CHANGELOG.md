@@ -10,7 +10,47 @@
 - Searchables 1.0.2 — by Jaredlll08 (dependency of Controlling)
 
 ### Updated (Mods)
+- 3d-Skin-Layers 1.11.1 → 1.11.2
+- Accurate Block Placement 1.4.4 → 1.4.5
+- Amendments 1.21-2.0.15 → 1.21-2.1.7
+- Balm 21.0.58 → 21.0.63
+- Collective 8.25 → 8.39
+- Concurrent Chunk Management Engine 0.3.0+alpha → 0.4.0-alpha
+- Critters and Companions 1.21.1-2.3.4 → 2.6.0
+- Enchantment Insights 21.1.0 → 21.1.4
+- EntityCulling 1.10.2 → 1.10.5
 - Fabric API 0.116.12+1.21.1 → 0.116.14+1.21.1
+- Fabric Language Kotlin 1.13.12 → 1.13.13
+- Fancy World Animations 1.2.24 → 1.2.31
+- Field Guide 1.11.2 → 1.13.1
+- GeckoLib 4 4.8.4 → 4.9.2
+- Hardcore Revival 21.1.15 → 21.1.17
+- ImmediatelyFast 1.6.10 → 1.6.11
+- Immersive Hotbar 1.1.1 → 1.1.2
+- Inventory Particles 2.4.0 → 2.6.0
+- Iris 1.8.8 → 1.8.14-beta.1
+- LambDynamicLights 4.8.8 → 4.8.10
+- Litematica 0.19.60 → 0.19.61
+- Lithium 0.15.3 → 0.15.4
+- Lithostitched 1.7.9 → 1.7.13
+- M.R.U → MRU 1.0.19+LTS → 1.0.31 (renamed)
+- Moonlight Lib 1.21.1-3.0.17 → 1.21.1-3.1.1
+- More Barrel Variants 2.0.3 → 2.0.6
+- More Culling 1.0.7 → 1.0.8
+- MossyLib 1.4.0 → 1.5.0
+- MusicNotification 3.0.0 → 3.2.0
+- Mythic Upgrades 4.2.0 → 5.1.0
+- NotEnoughAnimations 1.12.3 → 1.12.4
+- Particle Rain 3.0.5 → 4.0.0-beta.10
+- Punchy 2.5.6 → 2.6.2
+- Puzzles Lib 21.1.51 → 21.1.52
+- Remove Reloading Screen 5.0.10 → 5.0.11
+- Sodium 0.6.13 → 0.8.12
+- Spawn Animations 1.11.4 → 1.11.5
+- Supplementaries 1.21.1-3.6.7 → 1.21.1-3.8.2
+- Tax Free Levels 1.4.23 → 1.4.24
+- Tide 2.0.3 → 2.1
+- oωo 0.12.15.4 → 0.13.0-alpha.15
 
 ### Replaced (Mods)
 - Map Atlases → MapDistanceFix 1.1.1+mc1.21-1.21.11
