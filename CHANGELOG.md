@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.3.1]
+
+### Updated (Mods)
+- Critters and Companions 2.6.0 → 1.21.1-2.3.4 (downgraded due to Architectury server compatibility issue)
+
 ## [1.3.0]
 
 ### Added (Mods)

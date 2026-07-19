@@ -81,3 +81,54 @@ The AI assistant for this project should:
 - This repo tracks: mod list, custom configs, changelogs, exports
 - Actual mod jars are NOT in this repo (downloaded via Modrinth references)
 - Export format: `.mrpack` (Modrinth modpack format)
+
+## Version Compatibility Checking (Skill)
+
+Use `scripts/check-mod-versions.js` to scan every mod in `modlist.json` against a set of target Minecraft versions via the Modrinth API. This produces a CSV spreadsheet and JSON report showing which mods support which versions.
+
+### How to invoke
+
+```bash
+node scripts/check-mod-versions.js
+```
+
+### What it does
+
+1. Reads `modlist.json` to get all 213+ mods with their Modrinth URLs
+2. Extracts the project ID from each URL (slug or raw ID)
+3. Calls `GET https://api.modrinth.com/v2/project/{id}/version` for each mod
+4. Compares the `game_versions` in the response against a configurable list of target Minecraft versions
+5. Rates each mod: `ALL` (all targets supported), `PARTIAL` (some supported), `NONE` (none), or `ERROR` (API failure)
+6. Outputs three files in `reports/`:
+   - `version-check-latest.md` — **primary readable report** with summary stats, legend, and full compatibility matrix using ✅/❌ emoji (renders beautifully on GitHub)
+   - `version-check-latest.csv` — spreadsheet backup with columns: Mod Name, URL, Current Version, Status, and one column per target MC version (✓/✗)
+   - `version-check-latest.json` — full structured data for machine consumption
+   - Timestamped JSON backup
+
+### Configuring target versions
+
+Edit `TARGET_VERSIONS` at the top of `scripts/check-mod-versions.js`:
+
+```js
+const TARGET_VERSIONS = [
+  '1.21',
+  '1.21.1',
+  '1.21.2',
+  '1.21.3',
+  '1.21.4',
+  '1.21.5',
+  '1.22',
+];
+```
+
+### Rate limiting
+
+The script adds a 300ms delay between requests to respect Modrinth's API. If rate-limited (HTTP 429), it respects the `Retry-After` header and retries up to 3 times.
+
+### Agent guidance
+
+When asked to check version compatibility:
+- Run the script to generate fresh reports
+- Use the CSV to identify mods that need updates or replacements for a target version
+- If a mod shows `NONE` or `PARTIAL` for a desired target, check the Modrinth project page for beta/snapshot builds
+- The `reports/` directory is gitignored — reports are for local reference

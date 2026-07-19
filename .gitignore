@@ -5,6 +5,9 @@
 # Exports (large binary archives — attach to GitHub releases instead)
 exports/*.mrpack
 
+# Version compatibility reports (generated, not tracked)
+reports/
+
 # Runtime / personal
 saves/
 logs/
